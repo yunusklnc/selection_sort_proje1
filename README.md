@@ -28,7 +28,7 @@
 
 ## Big-O gösterimini yazınız.
 
-Cevap : O(n^)
+Cevap : O(n^2)
 
 
 ## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
